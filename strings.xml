@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NotasApp</string>
+    <string name="add">Nueva Nota</string>
+    <string name="cuerpoNota">Escribe aqui</string>
+    <string name="guardar">Guardar</string>
+    <string name="tituloEjemplo">Titulo de ejemplo</string>
+    <string name="fecha">fecha</string>
+    <string name="blabla">Bla bla bla</string>
+    <string name="hora">hora</string>
+    <string name="nombre">Nombre</string>
+    <string name="entrar">ENTRAR</string>
+    <string name="bienvenido">BIENVENID@</string>
+</resources>
